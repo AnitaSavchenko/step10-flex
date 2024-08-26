@@ -7,6 +7,7 @@
 
 
 
+-  иконочный шрифт - смотри интелект карту
 
 
 Иконочные шрифты /иконки    <script src="https://kit.fontawesome.com/02902f4142.js" crossorigin="anonymous"></script>        (скрипт для HTML , перед /head)
